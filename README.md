@@ -1,7 +1,3 @@
----
-description: The front page of the wiki
----
-
 # Front Page
 
 Welcome to the wiki!
