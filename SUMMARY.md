@@ -6,4 +6,5 @@
 ## Testing
 
 * [My Page](testing/my-page.md)
+* [Recycling](testing/recycling.md)
 
