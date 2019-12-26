@@ -7,5 +7,5 @@
 
 * [My Page](testing/my-page.md)
 * [Recycling](testing/recycling.md)
-* [Donor-Advised Fund](donor-advised-fund.md)
+* [Donor-Advised Funds](donor-advised-fund.md)
 

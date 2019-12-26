@@ -1,4 +1,4 @@
-# Donor-Advised Fund
+# Donor-Advised Funds
 
 A donor-advised fund is a tax– and cost–efficient alternative to a private foundation for managing donation of appreciated securities to nonprofit organizations.  You fund an account with appreciated securities and then advise the fund how you would like the proceeds to be disbursed—the fund doesn't _technically_ have to follow your wishes, but most DFAs will simply disburse to any 501\(c\)3 organization that you specify.
 
@@ -26,4 +26,5 @@ A donor-advised fund is a tax– and cost–efficient alternative to a private f
 * [http://forum.mrmoneymustache.com/investor-alley/donor-advised-funds-for-charitable-giving/](http://forum.mrmoneymustache.com/investor-alley/donor-advised-funds-for-charitable-giving/)
 * [https://bcwiki.brandoncurtis.com/p/philanthropy](https://bcwiki.brandoncurtis.com/p/philanthropy)
 * [https://wiki.andhigherstill.com/w/Philanthropy](https://wiki.andhigherstill.com/w/Philanthropy)
+* [https://docs.google.com/document/d/1q5Y2K6aTVGwHSkKeyK57lk6VZKTl-csQysSRkn5-2uI/](https://docs.google.com/document/d/1q5Y2K6aTVGwHSkKeyK57lk6VZKTl-csQysSRkn5-2uI/edit)
 
