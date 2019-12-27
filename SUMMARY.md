@@ -8,4 +8,5 @@
 * [My Page](testing/my-page.md)
 * [Recycling](testing/recycling.md)
 * [Donor-Advised Funds](donor-advised-fund.md)
+* [Secure SHell](secure-shell.md)
 
